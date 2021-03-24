@@ -120,7 +120,7 @@
         {
          "columns":22,
          "firstgid":856,
-         "image":"..\/Modern Office\/Modern_Office\/Upscaled_versions\/Office_interiors_32x32.png",
+         "image":"Tiles/Office_interiors_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -133,7 +133,7 @@
         {
          "columns":16,
          "firstgid":1384,
-         "image":"..\/Modern Office\/Modern_Office\/Upscaled_versions\/Office_walls_floors_32x32.png",
+         "image":"Tiles/Office_walls_floors_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -146,7 +146,7 @@
         {
          "columns":16,
          "firstgid":1576,
-         "image":"..\/Modern Interiors\/Modern_Interiors\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "image":"Tiles/Interiors_32x32.png",
          "imageheight":19168,
          "imagewidth":512,
          "margin":0,
@@ -159,7 +159,7 @@
         {
          "columns":8,
          "firstgid":11160,
-         "image":"floortileset.png",
+         "image":"Tiles/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -172,7 +172,7 @@
         {
          "columns":16,
          "firstgid":11224,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"Tiles/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,

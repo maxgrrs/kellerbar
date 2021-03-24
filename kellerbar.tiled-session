@@ -1,0 +1,112 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "hauptraum.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 1071,
+                "y": 1283
+            }
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Basic Office": {
+            "scaleInDock": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Beläge": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Bilder": {
+            "dynamicWrapping": true
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Büro": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Büro Beläge": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Draußen": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Innenräume": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx#Raumplan": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/testSpecial/testSpecial/map.json": {
+            "scale": 0.7176630434782608,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 737.8114350624764,
+                "y": 544.1272245361606
+            }
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/testSpecial/testSpecial/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/dual Studierende/Desktop/Tiled/testSpecial/testSpecial/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "hauptraum.tmx": {
+            "scale": 0.40170898437499997,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1009.4372189133344,
+                "y": 1024.3734046432478
+            }
+        },
+        "hauptraum.tmx#Basic Stuff": {
+            "scaleInDock": 1
+        },
+        "hauptraum.tmx#Beläge": {
+            "scaleInDock": 1
+        },
+        "hauptraum.tmx#Beläge Basic": {
+            "scaleInDock": 1
+        },
+        "hauptraum.tmx#Büro Basic": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hauptraum.tmx#Draußen": {
+            "scaleInDock": 1
+        },
+        "hauptraum.tmx#Einrichtung": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 64,
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 64,
+    "openFiles": [
+        "hauptraum.tmx"
+    ],
+    "project": "kellerbar.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "hauptraum.tmx",
+        "C:/Users/dual Studierende/Desktop/Tiled/Office Sternengasse/wamaps/Office Sternengasse/office1.tmx",
+        "C:/Users/dual Studierende/Desktop/Tiled/testSpecial/testSpecial/map.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.type": 0
+}

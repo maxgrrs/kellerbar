@@ -56921,7 +56921,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <group id="9" name="Meetings" visible="0">
+ <group id="9" name="Meetings">
   <layer id="10" name="Main Meeting" width="64" height="64">
    <properties>
     <property name="jitsiRoom" value="Leiterrunde"/>
